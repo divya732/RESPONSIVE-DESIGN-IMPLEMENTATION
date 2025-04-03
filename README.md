@@ -36,5 +36,11 @@ To further enhance interactivity, JavaScript is used for the hamburger menu func
 
 ### **4. Responsive Behavior and Testing**  
 
-The webpage has been thoroughly tested across multiple devices to ensure seamless responsiveness. The navigation bar adapts dynamically, switching between full-view and dropdown formats depending on the screen width. The hero section’s text and images scale proportionally, maintaining clarity and readability. The grid layout restructures itself, ensuring that content remains well-organized and visually appealing on all devices. Finally, the footer stays fixed at the bottom, preserving a clean and professional look across different screen sizes.  
+The webpage has been thoroughly tested across multiple devices to ensure seamless responsiveness. The navigation bar adapts dynamically, switching between full-view and dropdown formats depending on the screen width. The hero section’s text and images scale proportionally, maintaining clarity and readability. The grid layout restructures itself, ensuring that content remains well-organized and visually appealing on all devices. Finally, the footer stays fixed at the bottom, preserving a clean and professional look across 
+different screen sizes.  
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b5699fa0-269d-4ece-85e2-4b531a816192)
+
 
